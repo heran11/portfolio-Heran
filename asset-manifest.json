@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/portfolio-Heran/static/css/main.9fb367ff.css",
+    "main.js": "/portfolio-Heran/static/js/main.4aad10f8.js",
+    "static/js/453.ace21015.chunk.js": "/portfolio-Heran/static/js/453.ace21015.chunk.js",
+    "static/media/ds.png": "/portfolio-Heran/static/media/ds.0523dc69f15fc3924eaa.png",
+    "static/media/logo.png": "/portfolio-Heran/static/media/logo.25e54a56b4c71c96b378.png",
+    "static/media/news.png": "/portfolio-Heran/static/media/news.c6f3bd4bde21c5c65b90.png",
+    "static/media/home-main.png": "/portfolio-Heran/static/media/home-main.396129c29821da18b4ea.png",
+    "static/media/attendance.png": "/portfolio-Heran/static/media/attendance.ce5bf176db9fe2f368d9.png",
+    "static/media/Chatbot.jpg": "/portfolio-Heran/static/media/Chatbot.11ed0cbbfa69b3111076.jpg",
+    "static/media/sports.jpg": "/portfolio-Heran/static/media/sports.5afe0f7c0b292cd827df.jpg",
+    "static/media/Heran-DS-resume.pdf": "/portfolio-Heran/static/media/Heran-DS-resume.bec2ddd512b12e11cf77.pdf",
+    "static/media/iris.jpg": "/portfolio-Heran/static/media/iris.02aecb48dbf83d4ca1be.jpg",
+    "static/media/face.jpg": "/portfolio-Heran/static/media/face.149398249676d05c91a8.jpg",
+    "static/media/avatar.jpg": "/portfolio-Heran/static/media/avatar.ff0251681d73adeed715.jpg",
+    "static/media/pre.svg": "/portfolio-Heran/static/media/pre.4410c5baaa673cc131da.svg",
+    "index.html": "/portfolio-Heran/index.html",
+    "main.9fb367ff.css.map": "/portfolio-Heran/static/css/main.9fb367ff.css.map",
+    "main.4aad10f8.js.map": "/portfolio-Heran/static/js/main.4aad10f8.js.map",
+    "453.ace21015.chunk.js.map": "/portfolio-Heran/static/js/453.ace21015.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9fb367ff.css",
+    "static/js/main.4aad10f8.js"
+  ]
+}
