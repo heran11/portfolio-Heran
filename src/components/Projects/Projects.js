@@ -37,7 +37,7 @@ function Projects() {
               isBlog={false}
               title="Sports Injury Prediction & Performance Analysis"
               description="Developed a machine learning system using Kaggle datasets to predict player injury risk. Processed video input to analyze movement and highlight high-risk areas such as ligaments, bones, and joints for potential injuries."
-              ghLink="https://github.com/soumyajit4419/Bits-0f-C0de"
+              //ghLink="https://github.com/soumyajit4419/Bits-0f-C0de"
             />
           </Col>
 
@@ -47,7 +47,7 @@ function Projects() {
               isBlog={false}
               title="Iris Flower Classification"
               description="Built a machine learning model to classify iris flower species using the Iris dataset. Used algorithms such as KNN, SVM, and Decision Tree and evaluated performance using accuracy metrics."
-              ghLink="https://github.com/soumyajit4419/Editor.io"              
+              //ghLink="https://github.com/soumyajit4419/Editor.io"              
             />
           </Col>
 
@@ -57,7 +57,7 @@ function Projects() {
               isBlog={false}
               title="Attendance Management System"
               description="Built an automated attendance system using face recognition by capturing user images, storing face data, and verifying identities in real-time to mark attendance accurately."
-              ghLink="https://github.com/soumyajit4419/Plant_AI"
+              //ghLink="https://github.com/soumyajit4419/Plant_AI"
             />
           </Col>
 
@@ -67,7 +67,7 @@ function Projects() {
               isBlog={false}
               title="Text Generation Chatbot"
               description="Developed an AI chatbot using Ollama and the LLaMA model to generate human-like responses and handle real-time user interactions."
-              ghLink="https://github.com/soumyajit4419/AI_For_Social_Good"
+              // ghLink="https://github.com/soumyajit4419/AI_For_Social_Good"
             />
           </Col>
 
@@ -78,7 +78,7 @@ function Projects() {
               title="Fake News & True News Detection"
               description="Developed a fake news detection system using a RAG approach with HuggingFace embeddings and FAISS for retrieval. Integrated LLaMA (via Ollama) to classify news as real or fake and generate explanations through a Streamlit-based UI.
               Then used Open-CV to detect the face in an image and then pass the face to the classifer to predict the emotion of a person."
-              ghLink="https://github.com/soumyajit4419/Face_And_Emotion_Detection"
+              // ghLink="https://github.com/soumyajit4419/Face_And_Emotion_Detection"
             />
           </Col>
 
@@ -88,7 +88,7 @@ function Projects() {
               isBlog={false}
               title="AI Resume Analyzer"
               description="Developed an AI-powered resume analyzer using Streamlit and Ollama (LLaMA 3.2) to evaluate resumes against job descriptions. Extracted text from PDF resumes and used prompt-based analysis to generate summaries, skill matching, missing skills, and match scores."
-              ghLink="https://github.com/soumyajit4419/AI_For_Social_Good"
+              // ghLink="https://github.com/soumyajit4419/AI_For_Social_Good"
             />
           </Col>
         </Row>
